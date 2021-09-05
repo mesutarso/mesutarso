@@ -4,19 +4,18 @@
 
 <p align="center">
   <a href="https://github.com/mesutarso"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/DenverCoder1?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/mesutarso"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
 </p>
 
-## 📖 About me
+## 📖 A Propos de moi
 
-* 💻 I'm a full stack web developer
-* 🎨 I'm a self-taught UI designer and Python
-* 📱 I make apps for web, Desktop, Android and iOS
-* 🎓 I'm a Computer Science student (graduating in October 2018)
-* 🌐 You can see some of my projects on [my portfolio](https://mechack-tambwe.netlify.app)
+* 💻 je suis un  full stack web developer
+* 🎨 je conçois et developpe tout type d'applications
+* 📱 Gestion du temps et Gestion des projets agiles(scrum && Kanban)
+* 🎓 Diplomé en génie informatique et electrique (UNIKIN 2019)
+* 🌐  <a href="https://mechack-tambwe.netlify">Mon portfolio </a>
 
 
-## 🔥 My contribution streak
+## 🔥 Ma séquence de contributions
 
 <p align="center">
   <a href="https://github.com/mesutarso/github-readme-streak-stats">
@@ -26,7 +25,7 @@
 
 <h3 align="center">⬇ Scroll down to see <a href="https://github.com/mesutarso?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
-## 🙋‍♂️ Connect with me:
+## 🙋‍♂️ Me suivre sur Twitter:
 
 <p align="left">
 
@@ -36,7 +35,7 @@
 
 
 
-## 👨‍💻 Languages and Tools:
+## 👨‍💻 HardSkills:
 
 <table>
     <tbody>
